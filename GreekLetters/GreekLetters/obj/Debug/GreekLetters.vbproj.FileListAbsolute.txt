@@ -1,0 +1,11 @@
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\bin\Debug\GreekLetters.exe.config
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\bin\Debug\GreekLetters.exe
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\bin\Debug\GreekLetters.pdb
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\bin\Debug\GreekLetters.xml
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.vbprojResolveAssemblyReference.cache
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.Form1.resources
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.Resources.resources
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.vbproj.GenerateResource.Cache
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.exe
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.xml
+c:\users\giannis\documents\visual studio 2015\Projects\GreekLetters\GreekLetters\obj\Debug\GreekLetters.pdb
